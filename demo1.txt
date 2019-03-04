@@ -1,1 +1,3 @@
 Rajesh yadav is good employee of own organizatin.
+All objects are allocated on the heap area managed by the JVM. As long as an object is being
+refrence.
